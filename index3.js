@@ -1,1 +1,2 @@
-console.log("nuevo archivo3")
+console.log("archivo")
+consola.log("cambio desde github remoto")
